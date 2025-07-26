@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-classification/static/css/main.15870ba2.css",
+    "main.js": "/Food-classification/static/js/main.430acb81.js",
+    "static/js/453.670e15c7.chunk.js": "/Food-classification/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Food-classification/index.html",
+    "main.15870ba2.css.map": "/Food-classification/static/css/main.15870ba2.css.map",
+    "main.430acb81.js.map": "/Food-classification/static/js/main.430acb81.js.map",
+    "453.670e15c7.chunk.js.map": "/Food-classification/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15870ba2.css",
+    "static/js/main.430acb81.js"
+  ]
+}
